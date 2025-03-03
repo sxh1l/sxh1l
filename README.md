@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sxh1l
 - 👀 I’m interested in web development, app development
-- 🌱 I’m currently learning BCA 2nd year
+- 🌱 I’m currently learning BCA 3rd year
 - 📫 https://linktr.ee/sahildatta
 
 <!---
