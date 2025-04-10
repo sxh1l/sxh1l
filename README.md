@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sxh1l
-- 👀 I’m interested in web development, app development
-- 🌱 I’m currently learning BCA 3rd year
+- 👋 Hi, I’m Sahil Datta @sxh1l
+- 👀 BCA Student Msc.it(Ongoing)
+- 🌱 FRONTEND Developer
 - 📫 https://linktr.ee/sahildatta
 
 <!---
